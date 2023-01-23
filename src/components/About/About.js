@@ -1,9 +1,10 @@
 import React from 'react'
 import './style.css';
+import ReactAudioPlayer from 'react-audio-player'
 
 function About() {
     return (
-        <section id="about-me" class="about-me">
+        <section id="about-me" className="about-me">
             <h2>
                 About Marcelo Andres Perez
             </h2>
@@ -16,6 +17,11 @@ function About() {
             <p>
                 <a href="https://www.tiktok.com/@mydogjomas" target="_blank" rel="noreferrer">my dog Jomas</a>
             </p>
+            <ReactAudioPlayer
+                src="../../Assets/chipger.mp3"
+                autoPlay
+                controls
+            />
         </section>
     )
 }
