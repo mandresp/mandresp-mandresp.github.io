@@ -5,10 +5,16 @@ function About() {
     return (
         <section id="about-me" class="about-me">
             <h2>
-                About Me
+                About Marcelo Andres Perez
             </h2>
             <p>
-                I am an adaptive and creative individual, proficient in working across cultures in Asia and Europe through having lived in the U.K., Hong Kong, and the U.S.A. Presently, I am learning how to code and have built this portfolio website for future use. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                I am a recent coding bootcamp graduate with an interest in working in front end design and React I want to grow and learn in a new position. I am an adaptive and creative individual, proficient in working across cultures in Asia and Europe through having lived in the U.K., Hong Kong, and the U.S.A. I hope to leverage my background in marketing to assist with design and presentation in my coding.
+            </p>
+            <p>
+                In my free time I enjoy making music and telling people about my dog Jomas.
+            </p>
+            <p>
+                <a href="https://www.tiktok.com/@mydogjomas" target="_blank" rel="noreferrer">my dog Jomas</a>
             </p>
         </section>
     )
