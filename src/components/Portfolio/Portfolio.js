@@ -3,7 +3,7 @@ import Project from './Project';
 
 const projects = [
     {
-        id: 3,
+        id: 1,
         name: 'HOWDYNEIGHBOR',
         repo: 'https://github.com/thatthembritt/howdyNeighbor',
         deployed: 'https://howdyneighbor.herokuapp.com',

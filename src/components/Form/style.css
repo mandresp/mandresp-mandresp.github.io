@@ -2,9 +2,9 @@
   font-family: Oswald;
   /* Linked the new font in the CSS */
   box-sizing: border-box;
-  --main: #ded6c5;
-  --secondary: #683f34;
-  --tertiary: #fd605b;
+  --main: #2B2D42;
+  --secondary: #8D99AE;
+  --tertiary: #EDF2F4;
   --text: #1D2023;
 }
 
