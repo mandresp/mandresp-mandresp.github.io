@@ -9,7 +9,7 @@ import "./style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  const [currentPage, setCurrentPage] = useState('Home');
+  const [currentPage, setCurrentPage] = useState('About');
 
   const renderPage = () => {
     if (currentPage === 'About') {
