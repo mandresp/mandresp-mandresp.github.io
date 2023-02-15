@@ -54,7 +54,7 @@ const projects = [
 
 export default function portfolio() {
   return (
-    <div className = 'd-flex'>
+    <div className='d-flex'>
         {projects.map(project => (<Project project = {project} key={project.id} />))}
     </div>
   );
