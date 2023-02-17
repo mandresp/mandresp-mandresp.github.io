@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40b63310.css",
+    "main.js": "/static/js/main.d1d1a500.js",
+    "static/media/02-advanced-css-homework-demo.gif": "/static/media/02-advanced-css-homework-demo.0766b2a0751dec5fd8fb.gif",
+    "static/media/Fullscreen Screenshot.png": "/static/media/Fullscreen Screenshot.855de233ca399cb7c5b2.png",
+    "static/media/PortfolioWebsite Screenshot.png": "/static/media/PortfolioWebsite Screenshot.471911e16cc2e632f408.png",
+    "static/media/Website Screenshot.png": "/static/media/Website Screenshot.d71fe5c3ca9bd61491a7.png",
+    "static/media/dreamStreamSS.png": "/static/media/dreamStreamSS.5e90ad534e6b689cd30b.png",
+    "static/media/Prework.png": "/static/media/Prework.29ff03d5be41ba206b27.png",
+    "static/media/311324380_516899916576237__n.jpg": "/static/media/311324380_516899916576237_6413785812201432744_n.db6a1a065eda10e8e558.jpg",
+    "static/media/Marcelo Perez CV.pdf": "/static/media/Marcelo Perez CV.93cc70e64401bb7ea33d.pdf",
+    "static/media/readme.png": "/static/media/readme.5031bad1489548d624b3.png",
+    "static/media/note-taker.png": "/static/media/note-taker.aa33ce5ce4921562a604.png",
+    "static/media/text-editor.png": "/static/media/text-editor.7677e8920ce1ec2375da.png",
+    "index.html": "/index.html",
+    "main.40b63310.css.map": "/static/css/main.40b63310.css.map",
+    "main.d1d1a500.js.map": "/static/js/main.d1d1a500.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40b63310.css",
+    "static/js/main.d1d1a500.js"
+  ]
+}
