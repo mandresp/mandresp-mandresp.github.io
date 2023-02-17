@@ -9,7 +9,7 @@ function About() {
                 About Marcelo Andres Perez
             </h2>
             <p>
-                I am a recent coding bootcamp graduate with an interest in working in front end design and React I want to grow and learn in a new position. I am an adaptive and creative individual, proficient in working across cultures in Asia and Europe through having lived in the U.K., Hong Kong, and the U.S.A. I hope to leverage my background in marketing to assist with design and presentation in my coding.
+                Recently graduated Full Stack Developer with over five years Marketing and Real Estate work experience as well as dual International Business/Economics degree. Adaptive – Multi-cultural having lived in the US, Hong Kong and London. Fluent in written and spoken Mandarin and conversationally fluent in Cantonese. Creative – Skilled in Art/Design/Music.
             </p>
             <p>
                 In my free time I enjoy making music and telling people about my dog Jomas.
