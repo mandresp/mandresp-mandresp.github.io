@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.40b63310.css",
-    "main.js": "/static/js/main.1ccd9533.js",
-    "static/media/chipger.mp3": "/static/media/chipger.b01c68ed548b17a62673.mp3",
-    "static/media/02-advanced-css-homework-demo.gif": "/static/media/02-advanced-css-homework-demo.0766b2a0751dec5fd8fb.gif",
-    "static/media/Fullscreen Screenshot.png": "/static/media/Fullscreen Screenshot.855de233ca399cb7c5b2.png",
-    "static/media/PortfolioWebsite Screenshot.png": "/static/media/PortfolioWebsite Screenshot.471911e16cc2e632f408.png",
-    "static/media/Website Screenshot.png": "/static/media/Website Screenshot.d71fe5c3ca9bd61491a7.png",
-    "static/media/dreamStreamSS.png": "/static/media/dreamStreamSS.5e90ad534e6b689cd30b.png",
-    "static/media/Prework.png": "/static/media/Prework.29ff03d5be41ba206b27.png",
-    "static/media/Marcelo Perez CV.pdf": "/static/media/Marcelo Perez CV.27dfa90f8bbf8f829aa6.pdf",
-    "static/media/311324380_516899916576237__n.jpg": "/static/media/311324380_516899916576237_6413785812201432744_n.db6a1a065eda10e8e558.jpg",
-    "static/media/readme.png": "/static/media/readme.5031bad1489548d624b3.png",
-    "static/media/note-taker.png": "/static/media/note-taker.aa33ce5ce4921562a604.png",
-    "static/media/text-editor.png": "/static/media/text-editor.7677e8920ce1ec2375da.png",
-    "index.html": "/index.html",
-    "main.40b63310.css.map": "/static/css/main.40b63310.css.map",
-    "main.1ccd9533.js.map": "/static/js/main.1ccd9533.js.map"
+    "main.css": "/mandresp.github.io/static/css/main.40b63310.css",
+    "main.js": "/mandresp.github.io/static/js/main.3ec842f9.js",
+    "static/media/chipger.mp3": "/mandresp.github.io/static/media/chipger.b01c68ed548b17a62673.mp3",
+    "static/media/02-advanced-css-homework-demo.gif": "/mandresp.github.io/static/media/02-advanced-css-homework-demo.0766b2a0751dec5fd8fb.gif",
+    "static/media/Fullscreen Screenshot.png": "/mandresp.github.io/static/media/Fullscreen Screenshot.855de233ca399cb7c5b2.png",
+    "static/media/PortfolioWebsite Screenshot.png": "/mandresp.github.io/static/media/PortfolioWebsite Screenshot.471911e16cc2e632f408.png",
+    "static/media/Website Screenshot.png": "/mandresp.github.io/static/media/Website Screenshot.d71fe5c3ca9bd61491a7.png",
+    "static/media/dreamStreamSS.png": "/mandresp.github.io/static/media/dreamStreamSS.5e90ad534e6b689cd30b.png",
+    "static/media/Prework.png": "/mandresp.github.io/static/media/Prework.29ff03d5be41ba206b27.png",
+    "static/media/Marcelo Perez CV.pdf": "/mandresp.github.io/static/media/Marcelo Perez CV.27dfa90f8bbf8f829aa6.pdf",
+    "static/media/311324380_516899916576237__n.jpg": "/mandresp.github.io/static/media/311324380_516899916576237_6413785812201432744_n.db6a1a065eda10e8e558.jpg",
+    "static/media/readme.png": "/mandresp.github.io/static/media/readme.5031bad1489548d624b3.png",
+    "static/media/note-taker.png": "/mandresp.github.io/static/media/note-taker.aa33ce5ce4921562a604.png",
+    "static/media/text-editor.png": "/mandresp.github.io/static/media/text-editor.7677e8920ce1ec2375da.png",
+    "index.html": "/mandresp.github.io/index.html",
+    "main.40b63310.css.map": "/mandresp.github.io/static/css/main.40b63310.css.map",
+    "main.3ec842f9.js.map": "/mandresp.github.io/static/js/main.3ec842f9.js.map"
   },
   "entrypoints": [
     "static/css/main.40b63310.css",
-    "static/js/main.1ccd9533.js"
+    "static/js/main.3ec842f9.js"
   ]
 }
