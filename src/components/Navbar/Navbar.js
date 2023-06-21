@@ -1,5 +1,5 @@
-import React from 'react';
-import './style.css';
+import React from "react";
+import "./style.css";
 
 function Navbar({ currentPage, handlePageChange }) {
   return (
@@ -7,37 +7,48 @@ function Navbar({ currentPage, handlePageChange }) {
       <li className="nav-item">
         <a
           href="#about"
-          onClick={() => handlePageChange('About')}
-          className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
+          onClick={() => handlePageChange("About")}
+          className={currentPage === "About" ? "nav-link active" : "nav-link"}
         >
-          About
+          about
         </a>
       </li>
       <li className="nav-item">
         <a
           href="#portfolio"
-          onClick={() => handlePageChange('Portfolio')}
-          className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
+          onClick={() => handlePageChange("Portfolio")}
+          className={
+            currentPage === "Portfolio" ? "nav-link active" : "nav-link"
+          }
         >
-          Portfolio
+          portfolio
         </a>
       </li>
       <li className="nav-item">
         <a
           href="#contact"
-          onClick={() => handlePageChange('Contact')}
-          className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
+          onClick={() => handlePageChange("Contact")}
+          className={currentPage === "Contact" ? "nav-link active" : "nav-link"}
         >
-          Contact
+          contact
         </a>
       </li>
       <li className="nav-item">
         <a
           href="#resume"
-          onClick={() => handlePageChange('Resume')}
-          className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
+          onClick={() => handlePageChange("Resume")}
+          className={currentPage === "Resume" ? "nav-link active" : "nav-link"}
         >
-          Resume
+          resume
+        </a>
+      </li>
+      <li className="nav-item">
+        <a
+          href="#other"
+          onClick={() => handlePageChange("Other")}
+          className={currentPage === "Other" ? "nav-link active" : "nav-link"}
+        >
+          other art
         </a>
       </li>
     </ul>

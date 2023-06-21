@@ -1,0 +1,15 @@
+* {
+  font-family: Oswald;
+  box-sizing: border-box;
+  --main: #101019;
+  --secondary: #99a1a6;
+  --tertiary: #e7a336;
+  --background: #f4f5f6;
+  --text: #2f3437;
+}
+
+.Landing {
+  display: flex;
+  justify-content: space-around;
+  width: 100vw;
+}
